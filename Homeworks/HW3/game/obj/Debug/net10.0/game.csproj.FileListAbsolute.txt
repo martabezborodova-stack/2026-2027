@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Марта прога\TPP10\Homeworks\HW3\game\bin\Debug\net10.0\game.exe
+C:\Users\Admin\OneDrive\Марта прога\TPP10\Homeworks\HW3\game\bin\Debug\net10.0\game.deps.json
+C:\Users\Admin\OneDrive\Марта прога\TPP10\Homeworks\HW3\game\bin\Debug\net10.0\game.runtimeconfig.json
+C:\Users\Admin\OneDrive\Марта прога\TPP10\Homeworks\HW3\game\bin\Debug\net10.0\game.dll
+C:\Users\Admin\OneDrive\Марта прога\TPP10\Homeworks\HW3\game\bin\Debug\net10.0\game.pdb
+C:\Users\Admin\OneDrive\Марта прога\TPP10\Homeworks\HW3\game\obj\Debug\net10.0\game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Марта прога\TPP10\Homeworks\HW3\game\obj\Debug\net10.0\game.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Марта прога\TPP10\Homeworks\HW3\game\obj\Debug\net10.0\game.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Марта прога\TPP10\Homeworks\HW3\game\obj\Debug\net10.0\game.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Марта прога\TPP10\Homeworks\HW3\game\obj\Debug\net10.0\game.sourcelink.json
+C:\Users\Admin\OneDrive\Марта прога\TPP10\Homeworks\HW3\game\obj\Debug\net10.0\game.dll
+C:\Users\Admin\OneDrive\Марта прога\TPP10\Homeworks\HW3\game\obj\Debug\net10.0\refint\game.dll
+C:\Users\Admin\OneDrive\Марта прога\TPP10\Homeworks\HW3\game\obj\Debug\net10.0\game.pdb
+C:\Users\Admin\OneDrive\Марта прога\TPP10\Homeworks\HW3\game\obj\Debug\net10.0\game.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Марта прога\TPP10\Homeworks\HW3\game\obj\Debug\net10.0\ref\game.dll
